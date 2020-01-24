@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7F924476-200F-4F7E-B1D8-F75A0C04BC6F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Live_Worl.My.MyApplication</StartupObject>
+    <RootNamespace>Live_Worl</RootNamespace>
+    <AssemblyName>Live_Worl</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>E:\publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Live_Worl.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Live_Worl.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>4E909414E3622B19C1F1F222B293CA4A49A0B240</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Live_Work_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Alecive-Flatwoken-Apps-Google-Drive-Forms.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualC" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cricket_news.Designer.vb">
+      <DependentUpon>cricket_news.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cricket_news.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="disp_p.Designer.vb">
+      <DependentUpon>disp_p.vb</DependentUpon>
+    </Compile>
+    <Compile Include="disp_p.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="feed.Designer.vb">
+      <DependentUpon>feed.vb</DependentUpon>
+    </Compile>
+    <Compile Include="feed.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="int_players.Designer.vb">
+      <DependentUpon>int_players.vb</DependentUpon>
+    </Compile>
+    <Compile Include="int_players.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ipl.Designer.vb">
+      <DependentUpon>ipl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ipl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.Designer.vb">
+      <DependentUpon>main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="management.Designer.vb">
+      <DependentUpon>management.vb</DependentUpon>
+    </Compile>
+    <Compile Include="management.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manage_see.Designer.vb">
+      <DependentUpon>manage_see.vb</DependentUpon>
+    </Compile>
+    <Compile Include="manage_see.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mtc1.vb" />
+    <Compile Include="ongo.Designer.vb">
+      <DependentUpon>ongo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ongo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pass.Designer.vb">
+      <DependentUpon>pass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="payment.Designer.vb">
+      <DependentUpon>payment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="payment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QOTD.Designer.vb">
+      <DependentUpon>QOTD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QOTD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="register.Designer.vb">
+      <DependentUpon>register.vb</DependentUpon>
+    </Compile>
+    <Compile Include="register.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="regq.Designer.vb">
+      <DependentUpon>regq.vb</DependentUpon>
+    </Compile>
+    <Compile Include="regq.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="score.Designer.vb">
+      <DependentUpon>score.vb</DependentUpon>
+    </Compile>
+    <Compile Include="score.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stadium.Designer.vb">
+      <DependentUpon>stadium.vb</DependentUpon>
+    </Compile>
+    <Compile Include="stadium.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="std_see.Designer.vb">
+      <DependentUpon>std_see.vb</DependentUpon>
+    </Compile>
+    <Compile Include="std_see.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ticket_b.Designer.vb">
+      <DependentUpon>Ticket_b.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ticket_b.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tryconfig.Designer.vb">
+      <DependentUpon>tryconfig.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tryconfig.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="videos.Designer.vb">
+      <DependentUpon>videos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="videos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="cricket_news.resx">
+      <DependentUpon>cricket_news.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="disp_p.resx">
+      <DependentUpon>disp_p.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="feed.resx">
+      <DependentUpon>feed.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="int_players.resx">
+      <DependentUpon>int_players.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ipl.resx">
+      <DependentUpon>ipl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="management.resx">
+      <DependentUpon>management.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manage_see.resx">
+      <DependentUpon>manage_see.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ongo.resx">
+      <DependentUpon>ongo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pass.resx">
+      <DependentUpon>pass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="payment.resx">
+      <DependentUpon>payment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QOTD.resx">
+      <DependentUpon>QOTD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="register.resx">
+      <DependentUpon>register.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="regq.resx">
+      <DependentUpon>regq.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="score.resx">
+      <DependentUpon>score.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stadium.resx">
+      <DependentUpon>stadium.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="std_see.resx">
+      <DependentUpon>std_see.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ticket_b.resx">
+      <DependentUpon>Ticket_b.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tryconfig.resx">
+      <DependentUpon>tryconfig.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="videos.resx">
+      <DependentUpon>videos.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="1.pdf" />
+    <None Include="2.pdf" />
+    <None Include="3.pdf" />
+    <None Include="4.pdf" />
+    <None Include="5.pdf" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dravid.docx" />
+    <None Include="icc.docx" />
+    <None Include="Live_Work_TemporaryKey.pfx" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="relations.docx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="02 Samjhawan - Humpty Sharma Ki Dulhania.mp3" />
+    <Content Include="1.jpg" />
+    <Content Include="21.jpg" />
+    <Content Include="22.jpg" />
+    <Content Include="23.jpg" />
+    <Content Include="25.jpg" />
+    <Content Include="27.jpg" />
+    <Content Include="29.jpg" />
+    <Content Include="31.jpg" />
+    <Content Include="33.jpg" />
+    <Content Include="35.jpg" />
+    <Content Include="37.jpg" />
+    <Content Include="41.jpg" />
+    <Content Include="AB de Villiers 41 From 11 Balls Vs MI - IPL 2015%28videoming%29.mp4" />
+    <Content Include="AB de Villiers Sings Hindi Song CricViDeos.in HD.mp4" />
+    <Content Include="Alecive-Flatwoken-Apps-Google-Drive-Forms.ico" />
+    <Content Include="Anushka Sharma Performance - IPL 2015 Opening Ceremony%28videoming%29.3gp" />
+    <Content Include="CricViDeos.in India Need 15 off 5, Dhoni ON.mp4" />
+    <Content Include="gallery.html" />
+    <Content Include="gg.jpg" />
+    <Content Include="ICC-WT20---India-vs-Australia-Highlights.mp4" />
+    <Content Include="image\1.jpg" />
+    <Content Include="image\1.png" />
+    <Content Include="image\2.jpg" />
+    <Content Include="image\21.jpg" />
+    <Content Include="image\22.jpg" />
+    <Content Include="image\23.jpg" />
+    <Content Include="image\25.jpg" />
+    <Content Include="image\27.jpg" />
+    <Content Include="image\29.jpg" />
+    <Content Include="image\3.jpg" />
+    <Content Include="image\31.jpg" />
+    <Content Include="image\33.jpg" />
+    <Content Include="image\35.jpg" />
+    <Content Include="image\37.jpg" />
+    <Content Include="image\4.PNG" />
+    <Content Include="image\41.jpg" />
+    <Content Include="image\5.jpg" />
+    <Content Include="image\6.jpg" />
+    <Content Include="image\gg.jpg" />
+    <Content Include="image\lol.jpg" />
+    <Content Include="image\odi.jpg" />
+    <Content Include="image\pl.jpg" />
+    <Content Include="image\test.jpg" />
+    <Content Include="image\virat.jpg" />
+    <Content Include="lol.jpg" />
+    <Content Include="pl.jpg" />
+    <Content Include="res.jpg" />
+    <Content Include="virat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

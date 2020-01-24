@@ -1,0 +1,72 @@
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\bin\Debug\Live_Worl.exe
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\bin\Debug\Live_Worl.pdb
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\bin\Debug\Live_Worl.xml
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.Resources.resources
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Work.vbproj.GenerateResource.Cache
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.exe
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.xml
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.pdb
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.login.resources
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.register.resources
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.main.resources
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\bin\Debug\Live_Worl.exe.manifest
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\bin\Debug\Live_Worl.application
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.exe.manifest
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.application
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.management.resources
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.manage_see.resources
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.d.resources
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.std_see.resources
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.QOTD.resources
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.regq.resources
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.int_players.resources
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.cricket_news.resources
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\bin\Debug\Live_Worl.exe.config
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.tryconfig.resources
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\bin\Debug\Interop.WMPLib.dll
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\bin\Debug\AxInterop.WMPLib.dll
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Interop.WMPLib.dll
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Work.vbproj.ResolveComReference.cache
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.videos.resources
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.feed.resources
+E:\4TH SEM PRACTICAL\VB.NET\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.score.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\bin\Debug\Live_Worl.exe.config
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Interop.WMPLib.dll
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Work.vbproj.ResolveComReference.cache
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.exe
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.xml
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.pdb
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\bin\Debug\Live_Worl.exe.manifest
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\bin\Debug\Live_Worl.application
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\bin\Debug\Live_Worl.exe
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\bin\Debug\Live_Worl.pdb
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\bin\Debug\Live_Worl.xml
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\bin\Debug\Interop.WMPLib.dll
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\bin\Debug\AxInterop.WMPLib.dll
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.cricket_news.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.feed.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.int_players.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.login.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.main.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.management.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.manage_see.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.QOTD.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.register.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.Resources.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.regq.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.score.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.std_see.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.tryconfig.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.videos.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Work.vbproj.GenerateResource.Cache
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.exe.manifest
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.application
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.disp_p.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.Ticket_b.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.payment.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.ongo.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.ipl.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.stadium.resources
+D:\Main Project of BCCI\BCCI Live Project\Live_Worl\Live_Worl\obj\x86\Debug\Live_Worl.pass.resources
